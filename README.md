@@ -12,38 +12,24 @@ HunarHub is a comprehensive web-based digital marketplace designed to empower lo
 
 ## Design & Skills Tags
 
-`Design Systems` `UI/UX` `Visual Design` `Branding` `Interaction Design` `User Research` `Conversion Design` `Product Design` `Creative Strategy` `Digital Marketing` `E-commerce` `Marketplace Development` `Service Booking` `User Experience` `Micro-entrepreneur Support` `Product Discovery` `Client-Server Architecture` `Full-stack Development` `API Design` `Performance Optimization` `Security` `Responsive Design` `Mobile-first` `Accessibility` `Data-driven Interfaces` `DevOps` `Cloud Deployment` `Cross-platform`
-
-## Key Features
-
-## Key Features
-
-### For Customers
-- 🔍 Browse and search local entrepreneurs by category, location, and skill type
-- 🛍️ View entrepreneur profiles and product galleries
-- 📦 Purchase handmade products with secure ordering
-- 🔧 Request services from skilled entrepreneurs
-- ⭐ Leave ratings and reviews
-- 📊 Track order and service request history
-
-### For Entrepreneurs
-- 👤 Create and manage professional profiles
-- 🏪 List products with images and pricing
-- 🔧 Offer services and manage availability
-- 📋 Accept or reject service requests
-- 📊 View earnings and business analytics
-- ⭐ Build reputation through customer reviews
-
-### For Admins
-- ✅ Approve and verify entrepreneur accounts
-- 📋 Manage categories and skills
-- 📊 Monitor platform analytics
-- 🛡️ Handle disputes and complaints
+- `UI/UX` `Visual Design` `Interaction Design` `Branding` `Product Design` `Design Systems` — Interface design, user journeys, and experience polish.
+- `User Research` `Conversion Design` `Creative Strategy` `Digital Marketing` — Customer research, product messaging, and conversion-focused design.
+- `E-commerce` `Marketplace Development` `Service Booking` `Product Discovery` `Micro-entrepreneur Support` — Business flows for buyers, sellers, and service providers.
+- `Client-Server Architecture` `Full-stack Development` `API Design` `Performance Optimization` `Security` — Scalable backend architecture, API design, and secure data handling.
+- `Responsive Design` `Mobile-first` `Accessibility` `Cross-platform` `Data-driven Interfaces` — Mobile-ready layouts, accessibility, and analytics-driven UX.
+- `DevOps` `Cloud Deployment` — Deployment, hosting, and production readiness.
 
 ## Technology Stack
 
-### Skills & Technologies
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcryptjs` `React 19` `Vite` `Tailwind CSS` `Axios` `React Router v6` `Lucide React` `HTML5` `CSS3` `JavaScript (ES2024)` `REST API` `JSON` `CORS` `Git` `GitHub` `AWS` `Vercel` `Netlify` `Responsive UI` `Mobile-first` `Performance Optimization` `Authentication` `CRUD` `Data Modeling`
+### Core Technologies
+- `Node.js` `Express.js` `MongoDB` `Mongoose` — Backend runtime, API framework, and database model.
+- `JWT` `bcryptjs` — Secure authentication and password hashing.
+- `React 19` `Vite` `Tailwind CSS` — Frontend SPA framework, build tooling, and utility-first styling.
+- `Axios` `React Router v6` `Lucide React` — HTTP client, app routing, and iconography.
+- `HTML5` `CSS3` `JavaScript (ES2024)` — Modern web standards and language features.
+- `REST API` `JSON` `CORS` — API communication and security configuration.
+- `Git` `GitHub` — Version control and code collaboration.
+- `AWS` `Vercel` `Netlify` — Cloud deployment and hosting platforms.
 
 ### Backend
 - **Runtime**: Node.js
