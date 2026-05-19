@@ -1,5 +1,7 @@
 # HunarHub - Digital Marketplace for Local Micro-Entrepreneurs
 
+> Professional Tags: `Marketplace` `SaaS` `B2C` `B2B` `Full-stack` `Micro-entrepreneur Platform` `Modern UI/UX` `Secure Authentication` `Scalable Architecture`
+
 ## Project Overview
 
 HunarHub is a comprehensive web-based digital marketplace designed to empower local micro-entrepreneurs (cobblers, potters, tailors, artisans, and small vendors) by providing them with digital visibility and access to customers. The platform enables entrepreneurs to showcase their skills, sell handmade products, and accept service requests while customers can easily discover and support local talent.
@@ -29,6 +31,9 @@ HunarHub is a comprehensive web-based digital marketplace designed to empower lo
 - 🛡️ Handle disputes and complaints
 
 ## Technology Stack
+
+### Technology Tags
+`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcryptjs` `React 19` `Vite` `Tailwind CSS` `Axios` `React Router v6` `Lucide React` `HTML5` `CSS3` `JavaScript (ES2024)` `REST API` `JSON` `CORS` `Git` `AWS` `Vercel` `Netlify`
 
 ### Backend
 - **Runtime**: Node.js
