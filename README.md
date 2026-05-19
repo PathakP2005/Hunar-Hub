@@ -10,9 +10,9 @@
 
 HunarHub is a comprehensive web-based digital marketplace designed to empower local micro-entrepreneurs (cobblers, potters, tailors, artisans, and small vendors) by providing them with digital visibility and access to customers. The platform enables entrepreneurs to showcase their skills, sell handmade products, and accept service requests while customers can easily discover and support local talent.
 
-## Skills & Expertise
+## Design & Skills Tags
 
-`E-commerce` `Marketplace Development` `User Experience` `Micro-entrepreneur Support` `Product Discovery` `Service Booking` `Client-Server Architecture` `Performance Optimization` `API Design` `Security` `Responsive Design` `Data-driven Interfaces`
+`Design Systems` `UI/UX` `Visual Design` `Branding` `Interaction Design` `User Research` `Conversion Design` `Product Design` `Creative Strategy` `Digital Marketing` `E-commerce` `Marketplace Development` `Service Booking` `User Experience` `Micro-entrepreneur Support` `Product Discovery` `Client-Server Architecture` `Full-stack Development` `API Design` `Performance Optimization` `Security` `Responsive Design` `Mobile-first` `Accessibility` `Data-driven Interfaces` `DevOps` `Cloud Deployment` `Cross-platform`
 
 ## Key Features
 
