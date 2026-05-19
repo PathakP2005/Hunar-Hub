@@ -1,10 +1,20 @@
 # HunarHub - Digital Marketplace for Local Micro-Entrepreneurs
 
-> Professional Tags: `Marketplace` `SaaS` `B2C` `B2B` `Full-stack` `Micro-entrepreneur Platform` `Modern UI/UX` `Secure Authentication` `Scalable Architecture`
+[![Marketplace](https://img.shields.io/badge/Marketplace-Local%20Commerce-blue?style=flat-square)](https://github.com)
+[![Full-stack](https://img.shields.io/badge/Full-stack-Modern%20Architecture-green?style=flat-square)](https://github.com)
+[![SaaS](https://img.shields.io/badge/SaaS-Platform-purple?style=flat-square)](https://github.com)
+[![Secure](https://img.shields.io/badge/Secure-JWT%20Auth-red?style=flat-square)](https://github.com)
+[![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Friendly-yellow?style=flat-square)](https://github.com)
 
 ## Project Overview
 
 HunarHub is a comprehensive web-based digital marketplace designed to empower local micro-entrepreneurs (cobblers, potters, tailors, artisans, and small vendors) by providing them with digital visibility and access to customers. The platform enables entrepreneurs to showcase their skills, sell handmade products, and accept service requests while customers can easily discover and support local talent.
+
+## Skills & Expertise
+
+`E-commerce` `Marketplace Development` `User Experience` `Micro-entrepreneur Support` `Product Discovery` `Service Booking` `Client-Server Architecture` `Performance Optimization` `API Design` `Security` `Responsive Design` `Data-driven Interfaces`
+
+## Key Features
 
 ## Key Features
 
@@ -32,8 +42,8 @@ HunarHub is a comprehensive web-based digital marketplace designed to empower lo
 
 ## Technology Stack
 
-### Technology Tags
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcryptjs` `React 19` `Vite` `Tailwind CSS` `Axios` `React Router v6` `Lucide React` `HTML5` `CSS3` `JavaScript (ES2024)` `REST API` `JSON` `CORS` `Git` `AWS` `Vercel` `Netlify`
+### Skills & Technologies
+`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcryptjs` `React 19` `Vite` `Tailwind CSS` `Axios` `React Router v6` `Lucide React` `HTML5` `CSS3` `JavaScript (ES2024)` `REST API` `JSON` `CORS` `Git` `GitHub` `AWS` `Vercel` `Netlify` `Responsive UI` `Mobile-first` `Performance Optimization` `Authentication` `CRUD` `Data Modeling`
 
 ### Backend
 - **Runtime**: Node.js
